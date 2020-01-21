@@ -50,7 +50,7 @@ Chapters
 # Courses 
 
 
-### Kahn Academy Intro to SQL: Querying and managing data
+### Khan Academy Intro to SQL: Querying and managing data
 
 Exercises, videos, and light reading. An approachable course on basic CRUD queries. Found [here](https://www.khanacademy.org/computing/computer-programming/sql)
 
