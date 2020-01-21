@@ -49,16 +49,10 @@ MySQL User’s Manual
 Currently reading, found [here ](https://dev.mysql.com/doc/refman/8.0/en/)
 
 
-   Chapters read
-
-
-    Data Types
-
-
-    Functions and Operators
-
-
-    Character Sets, Collations, Unicode
+Chapters
+* Data Types
+* Functions and Operators
+* Character Sets, Collations, Unicode
 
 
 # Courses 
@@ -69,19 +63,13 @@ Currently reading, found [here ](https://dev.mysql.com/doc/refman/8.0/en/)
 Exercises, videos, and light reading. An approachable course on basic CRUD queries. Found [here](https://www.khanacademy.org/computing/computer-programming/sql)
 
 
-    Topics covered:
+Topics covered:
 
 
-    What is SQL, tables, relational data
-
-
-    Updates 
-
-
-    Joins: Self, LEFT OUTER
-
-
-    UPDATE, DELETE
+* What is SQL, tables, relational data
+* Updates 
+* Joins: Self, LEFT OUTER
+* UPDATE, DELETE
 
 ** **
 
