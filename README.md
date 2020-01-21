@@ -2,19 +2,11 @@
 # SQL Studies
 # Most recent:
 
-The Complete SQL Bootcamp
+The Complete SQL Bootcamp, completed Sept 2019
 
 Udemy Course found [here](https://www.udemy.com/course/the-complete-sql-bootcamp/)
 
-Course completed Sept 2019
-
-Taught by Jose Portilla 
-
-Head of Data Science
-
-Pierian Data Inc
-
-8.5 hours, 3 assessment tests
+Taught by Jose Portilla, Head of Data Science at Pierian Data Inc
 
 Using PostgreSQL locally the class goes through
 
@@ -39,7 +31,7 @@ Currently reading, found[ here](https://smile.amazon.com/Learn-SQL-Practical-Dat
 Update: had major difficulty setting up the local microsoft server and decided to try other studies
 
 
-    Topics:
+Topics
 * Database basics
 * Setting up local SQL server
 * Exercises
