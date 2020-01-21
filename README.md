@@ -40,22 +40,16 @@ Update: had major difficulty setting up the local microsoft server and decided t
 
 
     Topics:
-
-
-    Database basics
-
-
-    Setting up local SQL server
-
-
-    Exercises
+* Database basics
+* Setting up local SQL server
+* Exercises
 
 MySQL User’s Manual
 
 Currently reading, found [here ](https://dev.mysql.com/doc/refman/8.0/en/)
 
 
-    Chapters read:
+   Chapters read
 
 
     Data Types
