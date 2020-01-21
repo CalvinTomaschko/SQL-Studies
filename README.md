@@ -68,8 +68,5 @@ Topics covered:
 
 # Challenge problems
 
-HackerRank SQL problems 
+HackerRank SQL problems, [link](https://www.hackerrank.com)
 
-https://www.hackerrank.com/dashboard
-
-**Kahn example challenge images:**
