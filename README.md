@@ -36,7 +36,7 @@ Topics
 * Setting up local SQL server
 * Exercises
 
-MySQL User’s Manual
+## MySQL User’s Manual
 
 Currently reading, found [here ](https://dev.mysql.com/doc/refman/8.0/en/)
 
