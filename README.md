@@ -16,9 +16,7 @@ Pierian Data Inc
 
 8.5 hours, 3 assessment tests
 
-Using PostgreSQL locally the class goes through:
-
-
+Using PostgreSQL locally the class goes through
 
 *   statement fundamentals
 *   GROUP BY & HAVING
