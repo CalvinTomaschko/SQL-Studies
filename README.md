@@ -2,7 +2,7 @@
 # SQL Studies
 # Most recent:
 
-The Complete SQL Bootcamp, completed Sept 2019
+### The Complete SQL Bootcamp, completed Sept 2019
 
 Udemy Course found [here](https://www.udemy.com/course/the-complete-sql-bootcamp/)
 
@@ -21,10 +21,10 @@ Using PostgreSQL locally the class goes through
 # Previous studies:
 
 
-# Books
+## Books
 
 
-## Learn SQL: A Practical Guide for SQL Server and Database Fundamentals
+### Learn SQL: A Practical Guide for SQL Server and Database Fundamentals
 
 Currently reading, found[ here](https://smile.amazon.com/Learn-SQL-Practical-Database-Fundamentals-ebook/dp/B07D5S2W4Y?_encoding=UTF8&redirect=true&ref_=ku_mi_rw_edp)
 
@@ -36,7 +36,7 @@ Topics
 * Setting up local SQL server
 * Exercises
 
-## MySQL User’s Manual
+### MySQL User’s Manual
 
 Currently reading, found [here ](https://dev.mysql.com/doc/refman/8.0/en/)
 
@@ -47,7 +47,7 @@ Chapters
 * Character Sets, Collations, Unicode
 
 
-# Courses 
+## Courses 
 
 
 ### Khan Academy Intro to SQL: Querying and managing data
@@ -66,7 +66,7 @@ Topics covered:
 ** **
 
 
-# Challenge problems
+## Challenge problems
 
 HackerRank SQL problems, [link](https://www.hackerrank.com)
 
